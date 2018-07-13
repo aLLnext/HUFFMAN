@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Haff.dir/main.c.o CMakeFiles/Haff.dir/coder.c.o CMakeFiles/Haff.dir/bits.c.o CMakeFiles/Haff.dir/decoder.c.o  -o Haff 
